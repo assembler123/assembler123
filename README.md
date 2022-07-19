@@ -7,9 +7,9 @@
 
 ## 🚀 Who Am I?
 
-Motivated Individual 5+ years of work exp. in Javascript.
-Always Developing or Learning.
-Tech Enthusiast | Full Stack(MERN) Developer | DB Admin | Devops | Architect.
+<p>Motivated Individual 5+ years of work exp. in Javascript.</p>
+<p>Always Developing or Learning.</p>
+<p>Tech Enthusiast | Full Stack(MERN) Developer | DB Admin | Devops | Architect.</p>
 
 <ul>
 <li>
