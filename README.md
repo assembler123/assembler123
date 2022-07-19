@@ -19,6 +19,7 @@
 <li>
  💬 Ask me about JS, System Design, DevOps
 </li>
+<li>👨‍💻 Checkout my <a href="https://assembler123.github.io/techenthu/">portfolio</a></li>
 <li>
 📫 Hit me on <a href='mailto:qasima9@gmail.com'/>qasima9@gmail.com</a>
 </li>
