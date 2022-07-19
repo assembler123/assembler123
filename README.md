@@ -3,7 +3,10 @@
 <img src="https://raw.githubusercontent.com/assembler123/assembler123/main/k.jpeg" width="600">
 </p>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/qasim-ali-6020a378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qasim-ali-6020a378" height="30" width="40" /></a>
+</p>
 
 ## 🚀 Who Am I?
 
