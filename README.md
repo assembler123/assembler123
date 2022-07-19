@@ -1,6 +1,6 @@
 <h2 align="center">Hello World 👋 Qasim This Side</h2>
 <p align = "center">
-<img src="https://raw.githubusercontent.com/assembler123/assembler123/main/k.jpeg" width="900">
+<img src="https://raw.githubusercontent.com/assembler123/assembler123/main/k.jpeg" width="600">
 </p>
 
 
