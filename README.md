@@ -1,11 +1,12 @@
-### Hi there 👋 Qasim This Side
+<h2 align="center">Hi there 👋 Qasim This Side</h2>
+<p align = "center">
+<img src="https://raw.githubusercontent.com/assembler123/assembler123/main/k.jpeg" width="900">
+</p>
 
+## 🚀 Who Am I?
 
-![App Screenshot](https://raw.githubusercontent.com/assembler123/assembler123/main/k.jpeg)
+Tech Enthusiast | Full Stack(MERN) Developer | DB Admin | Devops | Architect
 
-
-## 🚀 About Me
-Tech Enthusiast | Full Stack Developer | DB Admin | Devops
 
 
 <!--
